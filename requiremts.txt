@@ -1,0 +1,6 @@
+setuptools>=58.1.0
+colorama>=0.4.5
+multidict>=5.1.0
+langchain_ollama
+sys
+pygame
